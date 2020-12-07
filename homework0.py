@@ -1,2 +1,1 @@
-"print('Hello world!')" 
-"print('goodbye, cruel world!')" 
+"print('GOT CUPS ON MY EARS')" 
